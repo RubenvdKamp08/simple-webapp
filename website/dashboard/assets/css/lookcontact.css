@@ -1,0 +1,140 @@
+.formulierinfo h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+}
+
+.formblock h4 {
+    margin: 0;
+    font-size: 17px;
+    width: 100%;
+}
+
+.formblock a {
+    font-size: 15px;
+    background-color: #f6f6f6;
+    padding: 10px;
+    display: inline-block;
+    border-top: 2px solid #cccccc;
+}
+
+.formbl {
+    padding-bottom: 20px;
+}
+
+.formulierheader {
+    text-align: center;
+}
+
+.formulierback {
+    float: left;
+}
+
+.formulierdelete .back-btn {
+    background-color: #f44336;
+}
+
+.formulierdelete .back-btn:hover {
+    background-color: rgb(256,0,0);
+}
+
+
+.formulierdelete {
+    float: right;
+}
+
+.formuliertitle {
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.fullform {
+    display: flex;
+}
+
+.leftform {
+    width: 35%;
+    border-right: 2px solid #222d32;
+}
+
+.leftform .formblock a {
+    word-break: break-all;
+    padding-right: 20px;
+}
+
+.rightform {
+    width: 65%;
+    margin-left: 30px;
+    padding-bottom: 12.5px;
+}
+
+.leftform a {
+    width: calc(100% - 50px);
+}
+
+.rightform a {
+    width: calc(100% - 20px);
+}
+
+@media only screen and (max-width: 1350px) {
+    .formblock a {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 1150px) {
+    .fullform {
+        display: block;
+    }
+
+    .leftform {
+        width: 100%;
+        border-right: none;
+    }
+
+    .fullform .rightform{
+        width: 100%;
+        padding: 0 0 25px 0;
+    }
+
+    .formbl a {
+        width: calc(100% - 20px);
+    }
+
+    .rightform {
+        margin-left: 0;
+    }
+
+    .messageblock {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .formuliertitle {
+        display: none;
+    }
+
+    .fullform {
+        margin-top: 30px;
+    }
+
+    .back-btn {
+        width: auto;
+        padding: 10px;
+    }
+
+    .dashbody, .dashheader {
+        margin: 15px;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .dashbody, .dashheader {
+        margin: 15px;
+    }
+
+    .dashboard-right .helper-text-createacc {
+        padding-left: 20px;
+    }
+}

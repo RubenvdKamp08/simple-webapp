@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04aee036-9826-49f8-ad4a-6d2a607019fc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/contact.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/inloggen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/news.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/newsitems.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/orders.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/overons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/reviews.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/shop.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/slicknav.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/vieworder.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/nieuws1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/products/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/slider/slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/contact.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/dashboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/edit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/lookcontact.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/monthlyproduct.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/news.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/newscategory.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/orders.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dashboard/assets/css/review.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.php" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/slick.js" afterPath="$PROJECT_DIR$/assets/js/slick.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/slicknav.min.js" afterPath="$PROJECT_DIR$/assets/js/slicknav.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cart.php" afterPath="$PROJECT_DIR$/cart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/assets/js/script.js" afterPath="$PROJECT_DIR$/dashboard/assets/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/contact/delete.php" afterPath="$PROJECT_DIR$/dashboard/contact/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/contact/index.php" afterPath="$PROJECT_DIR$/dashboard/contact/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/contact/look.php" afterPath="$PROJECT_DIR$/dashboard/contact/look.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/footer.php" afterPath="$PROJECT_DIR$/dashboard/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/header.php" afterPath="$PROJECT_DIR$/dashboard/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/index.php" afterPath="$PROJECT_DIR$/dashboard/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/montlyproduct/index.php" afterPath="$PROJECT_DIR$/dashboard/montlyproduct/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/montlyproduct/product.php" afterPath="$PROJECT_DIR$/dashboard/montlyproduct/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/montlyproduct/update.php" afterPath="$PROJECT_DIR$/dashboard/montlyproduct/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/news/create.php" afterPath="$PROJECT_DIR$/dashboard/news/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/news/delete.php" afterPath="$PROJECT_DIR$/dashboard/news/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/news/index.php" afterPath="$PROJECT_DIR$/dashboard/news/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/news/update.php" afterPath="$PROJECT_DIR$/dashboard/news/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/news_category/create.php" afterPath="$PROJECT_DIR$/dashboard/news_category/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/news_category/delete.php" afterPath="$PROJECT_DIR$/dashboard/news_category/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/news_category/index.php" afterPath="$PROJECT_DIR$/dashboard/news_category/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/news_category/update.php" afterPath="$PROJECT_DIR$/dashboard/news_category/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/orders/delete.php" afterPath="$PROJECT_DIR$/dashboard/orders/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/orders/index.php" afterPath="$PROJECT_DIR$/dashboard/orders/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/orders/order.php" afterPath="$PROJECT_DIR$/dashboard/orders/order.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/orders/status.php" afterPath="$PROJECT_DIR$/dashboard/orders/status.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/product_category/create.php" afterPath="$PROJECT_DIR$/dashboard/product_category/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/product_category/delete.php" afterPath="$PROJECT_DIR$/dashboard/product_category/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/product_category/index.php" afterPath="$PROJECT_DIR$/dashboard/product_category/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/product_category/update.php" afterPath="$PROJECT_DIR$/dashboard/product_category/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/product_subcategory/create.php" afterPath="$PROJECT_DIR$/dashboard/product_subcategory/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/product_subcategory/delete.php" afterPath="$PROJECT_DIR$/dashboard/product_subcategory/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/product_subcategory/index.php" afterPath="$PROJECT_DIR$/dashboard/product_subcategory/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/product_subcategory/update.php" afterPath="$PROJECT_DIR$/dashboard/product_subcategory/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/products/create.php" afterPath="$PROJECT_DIR$/dashboard/products/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/products/delete.php" afterPath="$PROJECT_DIR$/dashboard/products/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/products/edit.php" afterPath="$PROJECT_DIR$/dashboard/products/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/products/index.php" afterPath="$PROJECT_DIR$/dashboard/products/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/reviews/delete.php" afterPath="$PROJECT_DIR$/dashboard/reviews/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/reviews/index.php" afterPath="$PROJECT_DIR$/dashboard/reviews/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/reviews/react.php" afterPath="$PROJECT_DIR$/dashboard/reviews/react.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/reviews/review.php" afterPath="$PROJECT_DIR$/dashboard/reviews/review.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/role/create.php" afterPath="$PROJECT_DIR$/dashboard/role/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/role/delete.php" afterPath="$PROJECT_DIR$/dashboard/role/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/role/index.php" afterPath="$PROJECT_DIR$/dashboard/role/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/role/update.php" afterPath="$PROJECT_DIR$/dashboard/role/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/slider/create.php" afterPath="$PROJECT_DIR$/dashboard/slider/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/slider/delete.php" afterPath="$PROJECT_DIR$/dashboard/slider/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/slider/edit.php" afterPath="$PROJECT_DIR$/dashboard/slider/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/slider/index.php" afterPath="$PROJECT_DIR$/dashboard/slider/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/products.php" afterPath="$PROJECT_DIR$/functions/products.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/shop.php" afterPath="$PROJECT_DIR$/functions/shop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/slide.php" afterPath="$PROJECT_DIR$/functions/slide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/user.php" afterPath="$PROJECT_DIR$/functions/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inloggen.php" afterPath="$PROJECT_DIR$/inloggen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newsarticle.php" afterPath="$PROJECT_DIR$/newsarticle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nieuws.php" afterPath="$PROJECT_DIR$/nieuws.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/orders.php" afterPath="$PROJECT_DIR$/orders.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/over-ons.php" afterPath="$PROJECT_DIR$/over-ons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product.php" afterPath="$PROJECT_DIR$/product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews.php" afterPath="$PROJECT_DIR$/reviews.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop.php" afterPath="$PROJECT_DIR$/shop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/succes.php" afterPath="$PROJECT_DIR$/succes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vieworder.php" afterPath="$PROJECT_DIR$/vieworder.php" />
+    </list>
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="963" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

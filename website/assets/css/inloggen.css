@@ -1,0 +1,115 @@
+.full-content {
+    font-family: "Open Sans";
+    display: flex;
+}
+
+.full-content .login {
+    width: 45%;
+    padding-right: 5%;
+    margin-top: 40px;
+}
+
+.full-content .login input {
+    width: 100%;
+}
+
+.full-content .register {
+    width: 45%;
+    padding-left: 5%;
+    border-left: 2px solid #99CA3C;
+    margin-top: 40px;
+}
+
+.full-content .register input {
+    width: 100%;
+}
+
+.full-content .login input {
+    width: 100%;
+    border: none;
+    background-color: #f6f6f6;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.full-content .register input {
+    width: 100%;
+    border: none;
+    background-color: #f6f6f6;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.headertext h2 {
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.loginsubmit button {
+    background-color: #99CA3C;
+    border: none;
+    color: white;
+    padding: 7px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+.helper-text {
+    background-color: #f6f6f6;
+    padding: 2px 0;
+}
+
+.contact-form .loginsubmit button:hover {
+    background-color: #a6d73d;
+    transition: 0.5s;
+}
+
+.requirements {
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+    padding: 5px 0;
+    margin-top: 20px;
+    background-color: #fdfdfd;
+    margin-bottom: 20px;
+}
+
+.reqinner {
+    color: red;
+}
+
+.sentregister {
+    margin-top: 15px;
+}
+
+.green-validation {
+    color: #a7e434;
+}
+
+@media screen and (max-width: 768px) {
+    .full-content {
+        display: block;
+    }
+
+    .full-content .login {
+        width: 100%;
+        padding-right: 0%;
+
+     }
+
+    .full-content .register {
+        width: 100%;
+        padding-left: 0;
+        border-top: 2px solid #99CA3C;
+        border-left: none;
+        padding-top: 25px;
+        margin-top: 10px;
+    }
+}
+
+
+

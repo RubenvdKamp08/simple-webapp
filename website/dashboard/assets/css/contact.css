@@ -1,0 +1,31 @@
+.contactblocks {
+    background-color: #f6f6f6;
+    width: calc(50% - 110px);
+    margin: 40px 40px 10px 40px;
+    padding: 5px 15px 15px 15px;
+}
+
+.contactform {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dashbody {
+    margin: 0;
+}
+
+.contactblocks h3 {
+    margin: 0;
+    font-size: 17.5px;
+    padding-top: 10px;
+}
+
+.contactblocks a {
+    font-size: 15px;
+}
+
+#formulierbutton {
+    background-color: blue;
+    color: red;
+}
+

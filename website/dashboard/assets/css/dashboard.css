@@ -1,0 +1,728 @@
+
+
+.dashleft .logo img {
+    width: 250px;
+}
+
+.logo {
+    background-color: #367fa9;
+    padding: 15px 0 15px 10px;
+    height: 50px;
+}
+
+.dashleft {
+    width: 350px;
+
+}
+
+.dropbtn {
+    background-color: #222d32;
+    color: white;
+    width: 100%;
+    padding: 10px 0;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: none;
+    width: 100%;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #222d32;
+    width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #2c3b41;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #2c3b41;
+}
+
+.flex-pagination {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.flex-pagination a {
+    color: inherit;
+    text-decoration: none;
+    padding: 4px 8px;
+    background-color: #3c8dbc;
+    margin: 2px;
+}
+
+.flex-pagination a:hover {
+    color: #ffffff;
+}
+
+.flex-pagination .current {
+    color: #ffffff;
+}
+
+body {
+    margin: 0;
+    font-family: "Open Sans";
+    background-color: #ecf0f5;
+}
+
+.dashnav {
+    background-color: #222d32;
+    margin-top: 0;
+    padding: 0 0;
+    height: 100%;
+    min-height: calc(100vh - 160px);
+}
+
+.dashnav li a {
+    text-decoration: none;
+    color: white;
+}
+
+.dashnav li {
+    list-style-type: none;
+    padding: 15px;
+}
+
+ul, menu, dir {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 0;
+}
+
+.dashnav li:hover {
+    background-color: #2c3b41;
+}
+
+.dashcontent {
+    display: flex;
+}
+
+.dashright {
+    width: 100%;
+}
+
+.dashrightupper {
+    background-color: #3c8dbc;
+    height: 70px;
+    color: white;
+}
+
+.dashrightupper {
+    font-size: 40px;
+    padding-top: 10px;
+    padding-left: calc(50% - 103px);
+}
+
+.dashnav i {
+    color: white;
+}
+
+.dashblock {
+    width: calc(100% / 3 - 40px);
+    color: white;
+    background-color: #3c8dbc;
+    position: relative;
+    margin: 20px;
+}
+
+.dashheader {
+    background-color: #222d32;
+    margin: 40px 40px 0px 40px;;
+    height: 30px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.dashheader a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.dashbody {
+    margin: 40px 40px 0px 40px;
+}
+
+.innerdashblock {
+    font-size: 70px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.innerdashblock i,
+.innerdashblock a {
+    padding: 20px 5%;
+    color: inherit;
+    text-decoration: none;
+}
+
+.dashblocktitle {
+    text-align: left;
+    width: 100%;
+    background: #367fa9;
+    margin-top: 20px;
+}
+
+.dashblocktitle h2 {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+}
+
+.dashblocks {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -20px;
+}
+
+.dashblock h2 {
+    padding: 10px;
+    font-size: 15px;
+}
+
+#dashmenu li a {
+    margin-left: 15px;
+}
+
+.dash-table {
+    width: 100%;
+    text-align: left;
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, 0.2);
+    border-spacing: 0;
+}
+
+.dash-table thead tr {
+    background-color: #367fa9;
+    color: white;
+    font-size: 18px;
+}
+
+.dash-table tbody tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+.dash-table tbody tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+.dash-table td {
+    padding: 8px 10px;
+    border-right: 1px solid #C1C3D1;
+    font-size: 15px;
+}
+
+.dash-table tbody tr:nth-child(odd):hover,
+.dash-table tbody tr:nth-child(even):hover {
+    background-color: #3c8dbc;
+    color: white;
+}
+
+.dash-table th {
+    padding: 15px;
+    border-bottom: 3px solid #C1C3D1;
+    border-right: 1px solid #C1C3D1;
+}
+
+.dash-table a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.dashbody .content {
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.dashbody .radio-btn {
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+
+.dashbody input {
+    width: calc(100% - 30px);
+    height: 2EM;
+    border: none;
+    background-color: #ffffff;
+    padding: 9px 15px;
+    display: block;
+}
+.dashbody .role {
+    width: 100%;
+}
+
+.dashbody .dashboard-left {
+    width: calc(50% - 30px);
+    margin-right: 30px;
+}
+
+.dashbody .leftcreate {
+    width: calc(50% - 30px);
+    margin-right: 30px;
+}
+
+.dashbody input {
+    margin-bottom: 15px;
+}
+
+
+.dashbody .dashboard-right {
+    width: calc(50% - 30px);
+    margin-left: 30px;
+}
+
+.dashbody .rightcreate {
+    width: calc(50% - 30px);
+    margin-left: 30px;
+}
+
+.helper-text ul li {
+    list-style-type: none;
+}
+
+.helper-text-createacc ul li {
+    list-style-type: none;
+}
+
+.dashbody input[type="submit"] {
+    width: auto;
+    padding: 10px 30px;
+    display: block;
+    height: auto;
+    background-color: #3c8dbc;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.dashbody input[type="submit"]:hover {
+    background-color: #56ade0;
+    cursor: pointer;
+}
+
+.dashbody textarea {
+    width: calc(100% - 30px);
+    resize: none;
+    border: none;
+    background-color: #ffffff;
+    padding: 10px 15px 40px 15px;
+    margin-bottom: 20px;
+    display: block;
+    min-height: 200px;
+}
+
+.dashbody select {
+    margin-bottom: 20px;
+    height: 40px;
+    width: 150px;
+    display: block;
+}
+
+.dashbody .dashboard-right img {
+    max-width: 100%;
+}
+
+.search-product {
+    max-width: 250px;
+    display: inline-block;
+    float: right;
+}
+
+@media only screen and (max-width: 1300px) {
+    .dashheader {
+        margin: 20px;
+    }
+
+    .dashbody {
+        margin: 20px;
+    }
+
+    .dash-table thead tr {
+        font-size: 15px;
+    }
+
+}
+
+@media only screen and (max-width: 1100px) {
+    .dash-table thead tr {
+        font-size: 15px;
+    }
+    .dash-table td {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .dashheader {
+        margin: 0;
+    }
+    .dash-table thead tr {
+        font-size: 15px;
+    }
+
+}
+
+.right-filter form {
+    width: 100%;
+}
+
+.right-filter form input {
+    width: calc(100% - 30px);
+}
+
+.create-btn {
+    width: auto;
+    padding: 10px 30px;
+    height: auto;
+    background-color: #3c8dbc;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.create-btn:hover {
+    background-color: #56ade0;
+}
+
+.back-btn {
+    background-color: #222d32;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 0px;
+    width: 130px;
+}
+
+.back-btn:hover {
+    background-color: #2c3b41;
+}
+
+@media only screen and (max-width: 1400px) {
+    .dashleft .logo img {
+        width: 85%;
+        padding: 6.5px 0 0 2%;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .dashblock {
+        width: calc(50% - 40px);
+    }
+
+    .rolepostalcode {
+        display: none;
+    }
+}
+
+
+
+@media only screen and (max-width: 1000px) {
+    .dashblock {
+        width: calc(100% - 40px);
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .dashleft .logo img {
+        width: 200px;
+        padding-top: 5px;
+    }
+
+    .dashnav ul {
+        display: none;
+    }
+
+    .dropdown {
+        display: inline-block;
+    }
+
+    .dashleft {
+        width: 100%;
+    }
+
+    .dashnav {
+        height: 48.5px;
+        min-height: 0;
+    }
+
+    .dashcontent {
+        display: block;
+    }
+
+    .dashheader {
+        margin: 0;
+        text-align: center;
+    }
+
+    .dashrightupper {
+        display: none;
+    }
+
+    .dashblock {
+        margin: 0 0 20px 0;
+        width: 100%;
+    }
+
+    .dashblocks {
+        margin: 0;
+    }
+
+    .innerdashblock i,
+    .innerdashblock a {
+        padding: 10px 5%;
+    }
+
+    .dashbody .dashboard-left {
+        width: calc(50% - 10px);
+        margin-right: 10px;
+    }
+
+    .dashbody .dashboard-right {
+        width: calc(50% - 10px);
+        margin-left: 10px;
+    }
+
+    .dashbody .leftcreate {
+        width: calc(50% - 10px);
+        margin-right: 10px;
+    }
+
+    .dashbody .rightcreate {
+        width: calc(50% - 10px);
+        margin-left: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 380px) {
+    .innerdashblock {
+        font-size: 55px;
+    }
+}
+
+@media only screen and (max-width: 910px) {
+    .rolefirstname, .rolemiddlename {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .rolelastname {
+        display: none;
+    }
+
+    .helper-text {
+        font-size: 12.5px;
+    }
+
+    .helper-text-createacc {
+        font-size: 12.5px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .role tbody tr td {
+        font-size: 12px;
+        word-break: break-all;
+    }
+
+
+}
+
+.orderbutton {
+    background-color: #367fa9;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 0px;
+    width: 130px;
+}
+
+.sort-orders select {
+    margin-right: 15px;
+}
+
+.buttonorder button {
+    height: 40px;
+    background-color: #3c8dbc;
+    color: #ffffff;
+    border: none;
+}
+
+.leftorderbutton {
+    margin-right: 50px;
+}
+
+.search-order {
+    margin-right: 15px;
+}
+
+@media only screen and (max-width: 1400px) {
+    .ordername {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .orderproducts {
+        display: none;
+    }
+
+    .newsactive {
+        display: none;
+    }
+
+    .reviewdate {
+        display: none;
+    }
+
+    .productsubcategory {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .orderstatus {
+        display: none;
+    }
+
+    .leftorderbutton {
+        margin-right: 15px;
+    }
+
+    .newsdate {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .orderdate {
+        display: none;
+    }
+
+    .ordersSort {
+        display: none;
+    }
+
+    .tableresp tbody td {
+        font-size: 11.5px;
+    }
+
+    .tableresp thead th {
+        font-size: 13.5px;
+    }
+
+    .categorynews {
+        display: none;
+    }
+
+    .reviewstars {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .productavailable, .productcategory {
+        display: none;
+    }
+
+    .create-btn {
+        padding: 7.5px 10px;
+        font-size: 15px;
+    }
+
+    .contactdate {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .productprice {
+        display: none;
+    }
+
+    .productactive {
+        display: none;
+    }
+
+    .create-btn {
+        font-size: 12.5px;
+    }
+
+    .dashbody .dashboard-left {
+        width: 100%;
+    }
+
+    .subcategory {
+        display: none;
+    }
+
+    .dashbody .content {
+        display: flex;
+    }
+
+    .dashbody .flex-pagination {
+        margin-bottom: 25px;
+    }
+
+    .tablereviews thead th {
+        font-size: 12px;
+    }
+
+    .tablereviews tbody td {
+        font-size: 10px;
+    }
+
+    .contactname {
+        display: none;
+    }
+
+    .slideid {
+        display: none;
+    }
+
+    .search-product {
+        max-width: 150px;
+    }
+}

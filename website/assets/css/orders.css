@@ -1,0 +1,144 @@
+
+.orderleft ul a {
+    color: black;
+    text-decoration: none;
+}
+
+.orderleft {
+    background-color: white;
+    width: 300px;
+    margin-right: 50px;
+    border: 2px solid #cccccc;
+    height: 100%;
+}
+
+.orderleft ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+}
+
+.orderleft ul li {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.orderleft ul li:hover {
+    background-color: #f6f6f6;
+}
+
+.orderleft h2 {
+    margin: 0;
+    font-size: 20px;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    background-color: #cccccc;
+    padding: 10px;
+}
+
+.allcontent {
+    margin-top: 30px;
+    display: flex;
+}
+
+.orderright {
+    width: calc(100% - 350px);
+}
+
+.orderright h1 {
+    margin: 0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    font-size: 30px;
+}
+
+.fullorder p {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+.fullorder {
+    background-color: #f6f6f6;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.ordercontent {
+    display: flex;
+}
+
+.contentleft {
+    width: calc(100% - 140px);
+}
+
+.contentright {
+    font-size: 15px;
+    text-align: right;
+    padding-top: 12px;
+    display: flex;
+}
+
+.ordertotal {
+    text-align: left;
+    width: 120px;
+
+}
+
+.seeorder a {
+    text-decoration: none;
+    color: black;
+}
+
+.fullorder:hover {
+    background-color: #ededed;
+
+}
+
+.status {
+    width: 156.5px;
+    text-align: left;
+}
+
+@media screen and (max-width: 950px) {
+    .orderleft {
+        display: none;
+    }
+
+    .orderright {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .status {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .ordertotal {
+        display: none;
+    }
+
+    .contentleft {
+        width: 200px;
+    }
+
+    .contentright {
+        width: 50%;
+    }
+
+    .contentright .seeorder {
+        width: 100%;
+    }
+
+}

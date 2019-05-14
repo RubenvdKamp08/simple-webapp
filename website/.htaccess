@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteRule    ^nieuws?$              			nieuws.php [NC,L]
+RewriteRule    ^/?$              				index.php [NC,L]
+RewriteRule    ^artikel/([^/]+)/?$       		newsarticle.php?ID=$1 [NC,L]
+RewriteRule    ^dashboard/contact/view/([^/]+)/?$  	dashboard/contact/look.php?id=$1 [NC,L]
+RewriteRule    ^shop/$ 							shop.php [NC,L]
+RewriteRule    ^dashboard/contact/$			    dashboard/contact/index.php [NC,L]
+
+ErrorDocument 404 /404.php

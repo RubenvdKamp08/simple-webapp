@@ -1,0 +1,143 @@
+.main-content {
+    padding-top: 136px;
+    font-family: "Open Sans";
+}
+
+.main-contact {
+     display: flex;
+ }
+
+.main-contact .contact-form {
+    width: 60%;
+}
+
+.main-contact .contact-info {
+    width: 40%;
+}
+
+.main-contact .opening-hours {
+    display: flex;
+}
+
+.info-block {
+    background-color: #f6f6f6;
+    padding: 5px 25px 5px 15px;
+    margin-bottom: 25px;
+}
+
+.info-block .address a {
+    text-decoration: none;
+    color: black;
+}
+
+.opening-hours .right {
+    padding-left: 35px;
+}
+
+.info-block h3 {
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+
+.info-block p {
+    font-size: 17.5px;
+}
+
+.contact-form input {
+    width: 80%;
+    height: 2EM;
+    border: none;
+    background-color: #f6f6f6;
+    padding: 9px 15px;
+}
+
+.contact-form .submit button {
+    background-color: #99CA3C;
+    border: none;
+    color: white;
+    padding: 7px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.contact-form .submit button:hover {
+    background-color: #a6d73d;
+    transition: 0.5s;
+}
+
+.contact-form .message textarea {
+    width: 80%;
+    resize: none;
+    border: none;
+    background-color: #f6f6f6;
+    padding: 10px 15px 40px 15px;
+
+}
+
+.map {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.sent {
+    padding-top: 15px;
+}
+
+#map {
+    height: 50%;
+}
+
+
+
+@media screen and (max-width: 790px) {
+    .main-contact {
+        display: block;
+
+    }
+
+    .main-contact .contact-form {
+        width: 100%;
+    }
+
+    .main-contact .contact-info {
+        width: 100%;
+    }
+
+    .contact-form input,
+    .contact-form .message textarea {
+        width: 100%;
+    }
+
+    .main-contact {
+        min-width: 0px;
+    }
+
+    .contact-info {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .contact-form input, .contact-form .message textarea {
+        box-sizing: border-box;
+        height: auto;
+        padding: 15px;
+    }
+
+    .contact-form .message textarea {
+        min-height: 100px;
+    }
+
+    .g-recaptcha {
+        transform:scale(0.85);
+        transform-origin:0 0;
+    }
+
+
+}
+
+
+
